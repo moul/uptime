@@ -15,6 +15,10 @@ sites:
     url: https://moul.io
   - name: makerinbox.com
     url: https://makerinbox.com
+  - name: ghboard.netlify.app
+    url: https://ghboard.netlify.app
+  - name: makerinbox.netlify.app
+    url: https://makerinbox.netlify.app
   - name: sh.moul.io
     url: https://sh.moul.io
   - name: fwrz
