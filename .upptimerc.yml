@@ -7,6 +7,14 @@ sites:
     url: https://www.berty.tech/
   - name: manfred.life
     url: https://manfred.life/
+  - name: sgtm.club
+    url: https://sgtm.club
+  - name: pathwar.land
+    url: https://pathwar.land
+  - name: makerinbox.com
+    url: https://makerinbox.com
+  - name: sh.moul.io
+    url: https://sh.moul.io
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
