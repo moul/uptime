@@ -221,18 +221,18 @@
     "icon": "https://favicons.githubusercontent.com/depviz.moul.io",
     "slug": "depviz-moul-io",
     "status": "down",
-    "uptime": "2.72%",
-    "uptimeDay": "2.72%",
-    "uptimeWeek": "2.72%",
-    "uptimeMonth": "2.72%",
-    "uptimeYear": "2.72%",
+    "uptime": "0.57%",
+    "uptimeDay": "0.57%",
+    "uptimeWeek": "0.57%",
+    "uptimeMonth": "0.57%",
+    "uptimeYear": "0.57%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-02": 0
+      "2021-07-02": 3
     }
   },
   {
@@ -277,18 +277,18 @@
     "icon": "https://favicons.githubusercontent.com/uptime.moul.io",
     "slug": "uptime-moul-io",
     "status": "down",
-    "uptime": "2.67%",
-    "uptimeDay": "2.67%",
-    "uptimeWeek": "2.67%",
-    "uptimeMonth": "2.67%",
-    "uptimeYear": "2.67%",
+    "uptime": "0.40%",
+    "uptimeDay": "0.40%",
+    "uptimeWeek": "0.40%",
+    "uptimeMonth": "0.40%",
+    "uptimeYear": "0.40%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-02": 0
+      "2021-07-02": 3
     }
   },
   {
