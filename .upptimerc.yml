@@ -11,10 +11,50 @@ sites:
     url: https://sgtm.club
   - name: pathwar.land
     url: https://pathwar.land
+  - name: moul.io
+    url: https://moul.io
   - name: makerinbox.com
     url: https://makerinbox.com
   - name: sh.moul.io
     url: https://sh.moul.io
+  - name: fwrz
+    url: fwrz.m.42.am
+    port: 22
+    check: tcp-ping
+  - name: bot.moul.io
+    url: https://bot.moul.io/ping
+  - name: protoc-gen-gotemplate.m.42.am
+    url: https://protoc-gen-gotemplate.m.42.am/
+  - name: pmgconsulting.org
+    url: https://pmgconsulting.org/
+  - name: comments.manfred.life
+    url: https://comments.manfred.life/ghi/
+  - name: depviz.moul.io
+    url: https://depviz.moul.io
+  - name: graphman.moul.io
+    url: https://graphman.moul.io/pertify/
+  - name: pipotron.moul.io
+    url: https://pipotron.moul.io/
+  - name: uptime.moul.io
+    url: https://uptime.moul.io/
+  - name: uptime.berty.io
+    url: https://uptime.berty.io/
+  - name: uptime.ultre.me
+    url: https://uptime.ultre.me/
+  - name: zrwf
+    url: zrwf.m.42.am
+    port: 22
+    check: tcp-ping
+  - name: fwrz2
+    url: fwrz2.m.42.am
+    port: 22
+    check: tcp-ping
+  - name: obelix
+    url: obelix.m.42.am
+    port: 22
+    check: tcp-ping
+
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
