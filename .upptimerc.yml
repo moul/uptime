@@ -45,6 +45,8 @@ sites:
     url: https://uptime.berty.io/
   - name: uptime.ultre.me
     url: https://uptime.ultre.me/
+  - name: grpcb.in
+    url: https://grpcb.in/
   - name: zrwf
     url: zrwf.m.42.am
     port: 22
