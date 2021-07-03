@@ -33,8 +33,8 @@ sites:
     url: https://pmgconsulting.org/
   - name: comments.manfred.life
     url: https://comments.manfred.life/ghi/
-  - name: depviz.moul.io
-    url: https://depviz.moul.io
+  - name: depviz-demo.moul.io
+    url: https://depviz-demo.moul.io
   - name: graphman.moul.io
     url: https://graphman.moul.io/pertify/
   - name: pipotron.moul.io
