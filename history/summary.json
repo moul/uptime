@@ -220,9 +220,9 @@
     "url": "https://pmgconsulting.org/",
     "icon": "https://favicons.githubusercontent.com/pmgconsulting.org",
     "slug": "pmgconsulting-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -231,7 +231,9 @@
     "timeWeek": 187,
     "timeMonth": 187,
     "timeYear": 187,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-05": 0
+    }
   },
   {
     "name": "comments.manfred.life",
@@ -311,11 +313,11 @@
     "icon": "https://favicons.githubusercontent.com/uptime.moul.io",
     "slug": "uptime-moul-io",
     "status": "up",
-    "uptime": "97.61%",
+    "uptime": "97.85%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.61%",
-    "uptimeMonth": "97.61%",
-    "uptimeYear": "97.61%",
+    "uptimeWeek": "97.85%",
+    "uptimeMonth": "97.85%",
+    "uptimeYear": "97.85%",
     "time": 86,
     "timeDay": 52,
     "timeWeek": 86,
