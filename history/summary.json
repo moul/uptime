@@ -148,10 +148,10 @@
     "url": "https://sh.moul.io",
     "icon": "https://favicons.githubusercontent.com/sh.moul.io",
     "slug": "sh-moul-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 219,
@@ -159,7 +159,9 @@
     "timeWeek": 217,
     "timeMonth": 219,
     "timeYear": 219,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-13": 1
+    }
   },
   {
     "name": "fwrz",
@@ -274,9 +276,9 @@
     "url": "https://graphman.moul.io/pertify/",
     "icon": "https://favicons.githubusercontent.com/graphman.moul.io",
     "slug": "graphman-moul-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -285,7 +287,9 @@
     "timeWeek": 255,
     "timeMonth": 190,
     "timeYear": 190,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-13": 0
+    }
   },
   {
     "name": "pipotron.moul.io",
@@ -311,11 +315,11 @@
     "icon": "https://favicons.githubusercontent.com/uptime.moul.io",
     "slug": "uptime-moul-io",
     "status": "up",
-    "uptime": "99.43%",
+    "uptime": "99.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.43%",
-    "uptimeYear": "99.43%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.46%",
     "time": 94,
     "timeDay": 74,
     "timeWeek": 104,
