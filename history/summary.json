@@ -112,9 +112,9 @@
     "url": "https://ghboard.netlify.app",
     "icon": "https://favicons.githubusercontent.com/ghboard.netlify.app",
     "slug": "ghboard-netlify-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,7 +123,9 @@
     "timeWeek": 3376,
     "timeMonth": 1858,
     "timeYear": 1858,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-15": 0
+    }
   },
   {
     "name": "makerinbox.netlify.app",
@@ -311,11 +313,11 @@
     "icon": "https://favicons.githubusercontent.com/uptime.moul.io",
     "slug": "uptime-moul-io",
     "status": "up",
-    "uptime": "99.52%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.52%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
     "time": 89,
     "timeDay": 54,
     "timeWeek": 86,
