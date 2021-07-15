@@ -112,19 +112,19 @@
     "url": "https://ghboard.netlify.app",
     "icon": "https://favicons.githubusercontent.com/ghboard.netlify.app",
     "slug": "ghboard-netlify-app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1858,
-    "timeDay": 97,
-    "timeWeek": 3376,
-    "timeMonth": 1858,
-    "timeYear": 1858,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1758,
+    "timeDay": 76,
+    "timeWeek": 3044,
+    "timeMonth": 1758,
+    "timeYear": 1758,
     "dailyMinutesDown": {
-      "2021-07-15": 0
+      "2021-07-15": 5
     }
   },
   {
