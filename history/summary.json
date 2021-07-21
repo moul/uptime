@@ -40,9 +40,9 @@
     "url": "https://sgtm.club",
     "icon": "https://favicons.githubusercontent.com/sgtm.club",
     "slug": "sgtm-club",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 573,
     "timeMonth": 565,
     "timeYear": 565,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-21": 0
+    }
   },
   {
     "name": "pathwar.land",
@@ -311,11 +313,11 @@
     "icon": "https://favicons.githubusercontent.com/uptime.moul.io",
     "slug": "uptime-moul-io",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
     "time": 87,
     "timeDay": 141,
     "timeWeek": 76,
