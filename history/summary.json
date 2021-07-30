@@ -40,19 +40,19 @@
     "url": "https://sgtm.club",
     "icon": "https://favicons.githubusercontent.com/sgtm.club",
     "slug": "sgtm-club",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 582,
-    "timeDay": 496,
-    "timeWeek": 505,
-    "timeMonth": 582,
-    "timeYear": 582,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 579,
+    "timeDay": 489,
+    "timeWeek": 502,
+    "timeMonth": 579,
+    "timeYear": 579,
     "dailyMinutesDown": {
-      "2021-07-30": 9
+      "2021-07-30": 16
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "https://makerinbox.com",
     "icon": "https://favicons.githubusercontent.com/makerinbox.com",
     "slug": "makerinbox-com",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 396,
-    "timeDay": 332,
-    "timeWeek": 360,
-    "timeMonth": 396,
-    "timeYear": 396,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 394,
+    "timeDay": 343,
+    "timeWeek": 359,
+    "timeMonth": 394,
+    "timeYear": 394,
     "dailyMinutesDown": {
-      "2021-07-30": 8
+      "2021-07-30": 14
     }
   },
   {
@@ -261,19 +261,17 @@
     "icon": "https://favicons.githubusercontent.com/depviz-demo.moul.io",
     "slug": "depviz-demo-moul-io",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 281,
     "timeDay": 271,
     "timeWeek": 243,
     "timeMonth": 281,
     "timeYear": 281,
-    "dailyMinutesDown": {
-      "2021-07-30": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "graphman.moul.io",
