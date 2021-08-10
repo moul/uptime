@@ -276,9 +276,9 @@
     "url": "https://graphman.moul.io/pertify/",
     "icon": "https://favicons.githubusercontent.com/graphman.moul.io",
     "slug": "graphman-moul-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -287,7 +287,9 @@
     "timeWeek": 128,
     "timeMonth": 279,
     "timeYear": 257,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-10": 0
+    }
   },
   {
     "name": "pipotron.moul.io",
@@ -313,11 +315,11 @@
     "icon": "https://favicons.githubusercontent.com/uptime.moul.io",
     "slug": "uptime-moul-io",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.84%",
+    "uptimeYear": "99.85%",
     "time": 84,
     "timeDay": 55,
     "timeWeek": 67,
