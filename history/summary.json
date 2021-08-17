@@ -78,19 +78,19 @@
     "url": "https://moul.io",
     "icon": "https://favicons.githubusercontent.com/moul.io",
     "slug": "moul-io",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 117,
-    "timeDay": 56,
-    "timeWeek": 109,
-    "timeMonth": 105,
-    "timeYear": 117,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 116,
+    "timeDay": 57,
+    "timeWeek": 104,
+    "timeMonth": 104,
+    "timeYear": 116,
     "dailyMinutesDown": {
-      "2021-08-17": 0
+      "2021-08-17": 8
     }
   },
   {
@@ -152,19 +152,19 @@
     "url": "https://sh.moul.io",
     "icon": "https://favicons.githubusercontent.com/sh.moul.io",
     "slug": "sh-moul-io",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 172,
-    "timeWeek": 159,
-    "timeMonth": 182,
-    "timeYear": 216,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 213,
+    "timeDay": 145,
+    "timeWeek": 152,
+    "timeMonth": 179,
+    "timeYear": 213,
     "dailyMinutesDown": {
-      "2021-08-17": 0
+      "2021-08-17": 8
     }
   },
   {
