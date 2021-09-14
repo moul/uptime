@@ -78,10 +78,10 @@
     "url": "https://moul.io",
     "icon": "https://favicons.githubusercontent.com/moul.io",
     "slug": "moul-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 120,
@@ -89,7 +89,9 @@
     "timeWeek": 180,
     "timeMonth": 116,
     "timeYear": 120,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-14": 1
+    }
   },
   {
     "name": "makerinbox.com",
@@ -132,9 +134,9 @@
     "url": "https://makerinbox.netlify.app",
     "icon": "https://favicons.githubusercontent.com/makerinbox.netlify.app",
     "slug": "makerinbox-netlify-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -143,7 +145,9 @@
     "timeWeek": 173,
     "timeMonth": 108,
     "timeYear": 105,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-14": 0
+    }
   },
   {
     "name": "sh.moul.io",
