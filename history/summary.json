@@ -78,19 +78,19 @@
     "url": "https://moul.io",
     "icon": "https://favicons.githubusercontent.com/moul.io",
     "slug": "moul-io",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 120,
-    "timeDay": 59,
-    "timeWeek": 180,
-    "timeMonth": 116,
+    "timeDay": 101,
+    "timeWeek": 176,
+    "timeMonth": 117,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2021-09-14": 1
+      "2021-09-14": 12
     }
   },
   {
@@ -134,19 +134,19 @@
     "url": "https://makerinbox.netlify.app",
     "icon": "https://favicons.githubusercontent.com/makerinbox.netlify.app",
     "slug": "makerinbox-netlify-app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 105,
-    "timeDay": 24,
-    "timeWeek": 173,
-    "timeMonth": 108,
-    "timeYear": 105,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 107,
+    "timeDay": 139,
+    "timeWeek": 183,
+    "timeMonth": 113,
+    "timeYear": 107,
     "dailyMinutesDown": {
-      "2021-09-14": 0
+      "2021-09-14": 12
     }
   },
   {
