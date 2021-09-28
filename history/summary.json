@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/manfred.life",
     "slug": "manfred-life",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 418,
     "timeDay": 282,
     "timeWeek": 370,
     "timeMonth": 393,
     "timeYear": 418,
-    "dailyMinutesDown": {
-      "2021-09-27": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "sgtm.club",
@@ -63,19 +61,17 @@
     "icon": "https://favicons.githubusercontent.com/pathwar.land",
     "slug": "pathwar-land",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 555,
     "timeDay": 447,
     "timeWeek": 457,
     "timeMonth": 472,
     "timeYear": 555,
-    "dailyMinutesDown": {
-      "2021-09-27": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "moul.io",
@@ -245,19 +241,17 @@
     "icon": "https://favicons.githubusercontent.com/comments.manfred.life",
     "slug": "comments-manfred-life",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 191,
     "timeDay": 188,
     "timeWeek": 139,
     "timeMonth": 141,
     "timeYear": 191,
-    "dailyMinutesDown": {
-      "2021-09-27": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "depviz-demo.moul.io",
