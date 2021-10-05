@@ -312,18 +312,19 @@
     "url": "https://uptime.moul.io/",
     "icon": "https://favicons.githubusercontent.com/uptime.moul.io",
     "slug": "uptime-moul-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 90,
-    "timeDay": 56,
-    "timeWeek": 104,
-    "timeMonth": 87,
+    "timeDay": 54,
+    "timeWeek": 98,
+    "timeMonth": 86,
     "timeYear": 90,
     "dailyMinutesDown": {
+      "2021-10-05": 0,
       "2021-07-02": 86
     }
   },
@@ -332,36 +333,40 @@
     "url": "https://uptime.berty.io/",
     "icon": "https://favicons.githubusercontent.com/uptime.berty.io",
     "slug": "uptime-berty-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 107,
-    "timeDay": 84,
-    "timeWeek": 142,
-    "timeMonth": 107,
+    "timeDay": 73,
+    "timeWeek": 132,
+    "timeMonth": 105,
     "timeYear": 107,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-05": 0
+    }
   },
   {
     "name": "uptime.ultre.me",
     "url": "https://uptime.ultre.me/",
     "icon": "https://favicons.githubusercontent.com/uptime.ultre.me",
     "slug": "uptime-ultre-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 101,
-    "timeDay": 58,
-    "timeWeek": 112,
+    "timeDay": 65,
+    "timeWeek": 107,
     "timeMonth": 95,
     "timeYear": 101,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-05": 0
+    }
   },
   {
     "name": "grpcb.in",
