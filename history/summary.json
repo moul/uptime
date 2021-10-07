@@ -40,9 +40,9 @@
     "url": "https://sgtm.club",
     "icon": "https://favicons.githubusercontent.com/sgtm.club",
     "slug": "sgtm-club",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -52,6 +52,7 @@
     "timeMonth": 579,
     "timeYear": 558,
     "dailyMinutesDown": {
+      "2021-10-07": 0,
       "2021-07-30": 16
     }
   },
@@ -336,9 +337,9 @@
     "slug": "uptime-berty-io",
     "status": "up",
     "uptime": "98.96%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "85.56%",
-    "uptimeMonth": "96.68%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "85.63%",
+    "uptimeMonth": "96.69%",
     "uptimeYear": "98.96%",
     "time": 104,
     "timeDay": 81,
@@ -346,7 +347,6 @@
     "timeMonth": 98,
     "timeYear": 104,
     "dailyMinutesDown": {
-      "2021-10-07": 8,
       "2021-10-06": 106,
       "2021-10-05": 1343
     }
