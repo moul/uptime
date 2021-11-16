@@ -61,19 +61,19 @@
     "url": "https://pathwar.land",
     "icon": "https://favicons.githubusercontent.com/pathwar.land",
     "slug": "pathwar-land",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 578,
-    "timeDay": 540,
-    "timeWeek": 655,
-    "timeMonth": 642,
-    "timeYear": 578,
+    "time": 577,
+    "timeDay": 501,
+    "timeWeek": 631,
+    "timeMonth": 637,
+    "timeYear": 577,
     "dailyMinutesDown": {
-      "2021-11-16": 0
+      "2021-11-16": 8
     }
   },
   {
@@ -155,9 +155,9 @@
     "slug": "sh-moul-io",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 270,
     "timeDay": 42,
@@ -165,7 +165,7 @@
     "timeMonth": 150,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2021-11-16": 0
+      "2021-11-16": 8
     }
   },
   {
@@ -246,18 +246,18 @@
     "icon": "https://favicons.githubusercontent.com/comments.manfred.life",
     "slug": "comments-manfred-life",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 186,
     "timeDay": 163,
     "timeWeek": 257,
     "timeMonth": 197,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2021-11-16": 8
+      "2021-11-16": 16
     }
   },
   {
@@ -284,18 +284,18 @@
     "icon": "https://favicons.githubusercontent.com/graphman.moul.io",
     "slug": "graphman-moul-io",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 182,
     "timeDay": 109,
     "timeWeek": 123,
     "timeMonth": 146,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2021-11-16": 8
+      "2021-11-16": 16
     }
   },
   {
@@ -303,9 +303,9 @@
     "url": "https://pipotron.moul.io/",
     "icon": "https://favicons.githubusercontent.com/pipotron.moul.io",
     "slug": "pipotron-moul-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -314,7 +314,9 @@
     "timeWeek": 129,
     "timeMonth": 118,
     "timeYear": 143,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-16": 0
+    }
   },
   {
     "name": "uptime.moul.io",
