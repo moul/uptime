@@ -115,18 +115,20 @@
     "url": "https://ghboard.netlify.app",
     "icon": "https://favicons.githubusercontent.com/ghboard.netlify.app",
     "slug": "ghboard-netlify-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 387,
-    "timeDay": 165,
-    "timeWeek": 200,
-    "timeMonth": 146,
-    "timeYear": 387,
-    "dailyMinutesDown": {}
+    "time": 398,
+    "timeDay": 1132,
+    "timeWeek": 438,
+    "timeMonth": 203,
+    "timeYear": 398,
+    "dailyMinutesDown": {
+      "2021-11-19": 0
+    }
   },
   {
     "name": "makerinbox.netlify.app",
