@@ -4,9 +4,9 @@
     "url": "https://www.berty.tech/",
     "icon": "https://favicons.githubusercontent.com/www.berty.tech",
     "slug": "berty-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 225,
     "timeMonth": 227,
     "timeYear": 296,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-09": 0
+    }
   },
   {
     "name": "manfred.life",
@@ -190,18 +192,18 @@
     "icon": "https://favicons.githubusercontent.com/bot.moul.io",
     "slug": "bot-moul-io",
     "status": "down",
-    "uptime": "76.11%",
+    "uptime": "75.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "76.11%",
+    "uptimeYear": "75.77%",
     "time": 472,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 472,
     "dailyMinutesDown": {
-      "2022-01-09": 4,
+      "2022-01-09": 1215,
       "2022-01-08": 1440,
       "2022-01-07": 1440,
       "2022-01-06": 1440,
