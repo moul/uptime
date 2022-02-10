@@ -4,19 +4,19 @@
     "url": "https://www.berty.tech/",
     "icon": "https://favicons.githubusercontent.com/www.berty.tech",
     "slug": "berty-tech",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 289,
-    "timeDay": 134,
-    "timeWeek": 220,
-    "timeMonth": 246,
-    "timeYear": 289,
+    "time": 291,
+    "timeDay": 381,
+    "timeWeek": 271,
+    "timeMonth": 258,
+    "timeYear": 291,
     "dailyMinutesDown": {
-      "2022-02-10": 1
+      "2022-02-10": 12
     }
   },
   {
@@ -63,19 +63,19 @@
     "url": "https://pathwar.land",
     "icon": "https://favicons.githubusercontent.com/pathwar.land",
     "slug": "pathwar-land",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 591,
-    "timeDay": 391,
-    "timeWeek": 628,
-    "timeMonth": 620,
-    "timeYear": 591,
+    "time": 593,
+    "timeDay": 740,
+    "timeWeek": 686,
+    "timeMonth": 635,
+    "timeYear": 593,
     "dailyMinutesDown": {
-      "2022-02-10": 1
+      "2022-02-10": 12
     }
   },
   {
@@ -83,19 +83,19 @@
     "url": "https://moul.io",
     "icon": "https://favicons.githubusercontent.com/moul.io",
     "slug": "moul-io",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 124,
-    "timeDay": 53,
-    "timeWeek": 171,
-    "timeMonth": 110,
-    "timeYear": 124,
+    "time": 125,
+    "timeDay": 241,
+    "timeWeek": 203,
+    "timeMonth": 119,
+    "timeYear": 125,
     "dailyMinutesDown": {
-      "2022-02-10": 1
+      "2022-02-10": 12
     }
   },
   {
@@ -207,7 +207,7 @@
     "timeMonth": 0,
     "timeYear": 472,
     "dailyMinutesDown": {
-      "2022-02-10": 854,
+      "2022-02-10": 866,
       "2022-02-09": 1440,
       "2022-02-08": 1440,
       "2022-02-07": 1440,
