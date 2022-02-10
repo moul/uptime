@@ -4,10 +4,10 @@
     "url": "https://www.berty.tech/",
     "icon": "https://favicons.githubusercontent.com/www.berty.tech",
     "slug": "berty-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 289,
@@ -15,7 +15,9 @@
     "timeWeek": 220,
     "timeMonth": 246,
     "timeYear": 289,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-10": 1
+    }
   },
   {
     "name": "manfred.life",
@@ -61,10 +63,10 @@
     "url": "https://pathwar.land",
     "icon": "https://favicons.githubusercontent.com/pathwar.land",
     "slug": "pathwar-land",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 591,
@@ -72,17 +74,19 @@
     "timeWeek": 628,
     "timeMonth": 620,
     "timeYear": 591,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-10": 1
+    }
   },
   {
     "name": "moul.io",
     "url": "https://moul.io",
     "icon": "https://favicons.githubusercontent.com/moul.io",
     "slug": "moul-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 124,
@@ -90,7 +94,9 @@
     "timeWeek": 171,
     "timeMonth": 110,
     "timeYear": 124,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-10": 1
+    }
   },
   {
     "name": "makerinbox.com",
@@ -190,18 +196,18 @@
     "icon": "https://favicons.githubusercontent.com/bot.moul.io",
     "slug": "bot-moul-io",
     "status": "down",
-    "uptime": "65.16%",
+    "uptime": "64.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "65.16%",
+    "uptimeYear": "64.99%",
     "time": 472,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 472,
     "dailyMinutesDown": {
-      "2022-02-10": 3,
+      "2022-02-10": 854,
       "2022-02-09": 1440,
       "2022-02-08": 1440,
       "2022-02-07": 1440,
