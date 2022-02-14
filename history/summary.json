@@ -42,9 +42,9 @@
     "slug": "sgtm-club",
     "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "31.57%",
-    "uptimeWeek": "90.22%",
-    "uptimeMonth": "97.75%",
+    "uptimeDay": "30.90%",
+    "uptimeWeek": "90.13%",
+    "uptimeMonth": "97.73%",
     "uptimeYear": "99.64%",
     "time": 566,
     "timeDay": 360,
@@ -52,7 +52,7 @@
     "timeMonth": 594,
     "timeYear": 566,
     "dailyMinutesDown": {
-      "2022-02-14": 923,
+      "2022-02-14": 932,
       "2022-02-13": 63,
       "2021-10-07": 179,
       "2021-07-30": 16
@@ -101,9 +101,9 @@
     "slug": "makerinbox-com",
     "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "31.57%",
-    "uptimeWeek": "90.22%",
-    "uptimeMonth": "97.75%",
+    "uptimeDay": "30.90%",
+    "uptimeWeek": "90.13%",
+    "uptimeMonth": "97.73%",
     "uptimeYear": "99.70%",
     "time": 401,
     "timeDay": 375,
@@ -111,7 +111,7 @@
     "timeMonth": 409,
     "timeYear": 401,
     "dailyMinutesDown": {
-      "2022-02-14": 923,
+      "2022-02-14": 932,
       "2022-02-13": 63
     }
   },
@@ -206,7 +206,7 @@
     "timeMonth": 0,
     "timeYear": 472,
     "dailyMinutesDown": {
-      "2022-02-14": 923,
+      "2022-02-14": 933,
       "2022-02-13": 1440,
       "2022-02-12": 1440,
       "2022-02-11": 1440,
@@ -357,19 +357,19 @@
     "url": "https://depviz-demo.moul.io",
     "icon": "https://favicons.githubusercontent.com/depviz-demo.moul.io",
     "slug": "depviz-demo-moul-io",
-    "status": "down",
-    "uptime": "99.73%",
-    "uptimeDay": "38.24%",
-    "uptimeWeek": "91.18%",
-    "uptimeMonth": "97.97%",
-    "uptimeYear": "99.73%",
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "37.59%",
+    "uptimeWeek": "91.08%",
+    "uptimeMonth": "97.95%",
+    "uptimeYear": "99.72%",
     "time": 281,
-    "timeDay": 233,
-    "timeWeek": 265,
+    "timeDay": 241,
+    "timeWeek": 264,
     "timeMonth": 270,
     "timeYear": 281,
     "dailyMinutesDown": {
-      "2022-02-14": 889
+      "2022-02-14": 899
     }
   },
   {
