@@ -157,10 +157,10 @@
     "url": "https://sh.moul.io",
     "icon": "https://favicons.githubusercontent.com/sh.moul.io",
     "slug": "sh-moul-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 239,
@@ -169,6 +169,7 @@
     "timeMonth": 146,
     "timeYear": 239,
     "dailyMinutesDown": {
+      "2022-02-26": 1,
       "2021-11-16": 36
     }
   },
@@ -199,7 +200,7 @@
     "uptime": "65.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "34.59%",
+    "uptimeMonth": "34.67%",
     "uptimeYear": "65.45%",
     "time": 465,
     "timeDay": 913,
@@ -338,9 +339,9 @@
     "url": "https://comments.manfred.life/ghi/",
     "icon": "https://favicons.githubusercontent.com/comments.manfred.life",
     "slug": "comments-manfred-life",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -350,6 +351,7 @@
     "timeMonth": 279,
     "timeYear": 193,
     "dailyMinutesDown": {
+      "2022-02-26": 0,
       "2021-11-16": 31
     }
   },
