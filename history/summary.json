@@ -81,10 +81,10 @@
     "url": "https://moul.io",
     "icon": "https://favicons.githubusercontent.com/moul.io",
     "slug": "moul-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 123,
@@ -92,7 +92,9 @@
     "timeWeek": 90,
     "timeMonth": 122,
     "timeYear": 123,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-28": 1
+    }
   },
   {
     "name": "makerinbox.com",
@@ -197,11 +199,11 @@
     "icon": "https://favicons.githubusercontent.com/bot.moul.io",
     "slug": "bot-moul-io",
     "status": "up",
-    "uptime": "65.73%",
+    "uptime": "65.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "41.17%",
-    "uptimeYear": "65.73%",
+    "uptimeMonth": "41.55%",
+    "uptimeYear": "65.75%",
     "time": 466,
     "timeDay": 300,
     "timeWeek": 529,
@@ -380,10 +382,10 @@
     "url": "https://graphman.moul.io/pertify/",
     "icon": "https://favicons.githubusercontent.com/graphman.moul.io",
     "slug": "graphman-moul-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 178,
@@ -392,6 +394,7 @@
     "timeMonth": 185,
     "timeYear": 178,
     "dailyMinutesDown": {
+      "2022-02-28": 1,
       "2021-11-16": 31
     }
   },
@@ -400,9 +403,9 @@
     "url": "https://pipotron.moul.io/",
     "icon": "https://favicons.githubusercontent.com/pipotron.moul.io",
     "slug": "pipotron-moul-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -412,6 +415,7 @@
     "timeMonth": 133,
     "timeYear": 141,
     "dailyMinutesDown": {
+      "2022-02-28": 0,
       "2021-11-16": 16
     }
   },
