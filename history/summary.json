@@ -4,19 +4,19 @@
     "url": "https://www.berty.tech/",
     "icon": "https://favicons.githubusercontent.com/www.berty.tech",
     "slug": "berty-tech",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 289,
-    "timeDay": 419,
-    "timeWeek": 322,
-    "timeMonth": 274,
+    "timeDay": 437,
+    "timeWeek": 339,
+    "timeMonth": 280,
     "timeYear": 289,
     "dailyMinutesDown": {
-      "2022-02-28": 0
+      "2022-02-28": 11
     }
   },
   {
@@ -202,7 +202,7 @@
     "uptime": "65.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "44.37%",
+    "uptimeMonth": "44.39%",
     "uptimeYear": "65.87%",
     "time": 464,
     "timeDay": 212,
