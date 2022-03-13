@@ -6,9 +6,9 @@
     "slug": "berty-tech",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 291,
     "timeDay": 81,
@@ -16,7 +16,8 @@
     "timeMonth": 297,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2022-03-12": 0
+      "2022-03-13": 5,
+      "2022-03-12": 3
     }
   },
   {
@@ -67,9 +68,9 @@
     "slug": "pathwar-land",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 600,
     "timeDay": 504,
@@ -77,7 +78,8 @@
     "timeMonth": 678,
     "timeYear": 600,
     "dailyMinutesDown": {
-      "2022-03-12": 0
+      "2022-03-13": 5,
+      "2022-03-12": 3
     }
   },
   {
@@ -204,7 +206,7 @@
     "uptime": "67.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.75%",
+    "uptimeMonth": "93.76%",
     "uptimeYear": "67.49%",
     "time": 453,
     "timeDay": 142,
