@@ -66,9 +66,9 @@
     "url": "https://pathwar.land",
     "icon": "https://favicons.githubusercontent.com/pathwar.land",
     "slug": "pathwar-land",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
@@ -78,6 +78,7 @@
     "timeMonth": 635,
     "timeYear": 602,
     "dailyMinutesDown": {
+      "2022-03-21": 0,
       "2022-03-13": 19,
       "2022-03-12": 3
     }
@@ -203,11 +204,11 @@
     "icon": "https://favicons.githubusercontent.com/bot.moul.io",
     "slug": "bot-moul-io",
     "status": "up",
-    "uptime": "68.49%",
+    "uptime": "68.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "68.49%",
+    "uptimeYear": "68.56%",
     "time": 443,
     "timeDay": 173,
     "timeWeek": 193,
