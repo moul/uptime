@@ -6,9 +6,9 @@
     "slug": "berty-tech",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 292,
     "timeDay": 1872,
@@ -16,7 +16,7 @@
     "timeMonth": 311,
     "timeYear": 292,
     "dailyMinutesDown": {
-      "2022-04-14": 2,
+      "2022-04-14": 24,
       "2022-03-13": 19,
       "2022-03-12": 3
     }
@@ -151,10 +151,10 @@
     "url": "https://makerinbox.netlify.app",
     "icon": "https://favicons.githubusercontent.com/makerinbox.netlify.app",
     "slug": "makerinbox-netlify-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 159,
@@ -162,7 +162,9 @@
     "timeWeek": 77,
     "timeMonth": 335,
     "timeYear": 159,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-14": 1
+    }
   },
   {
     "name": "sh.moul.io",
@@ -394,19 +396,19 @@
     "url": "https://graphman.moul.io/pertify/",
     "icon": "https://favicons.githubusercontent.com/graphman.moul.io",
     "slug": "graphman-moul-io",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 235,
-    "timeDay": 8715,
-    "timeWeek": 2254,
-    "timeMonth": 658,
+    "timeDay": 5830,
+    "timeWeek": 2010,
+    "timeMonth": 641,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2022-04-14": 1,
+      "2022-04-14": 22,
       "2021-11-16": 31
     }
   },
@@ -415,19 +417,19 @@
     "url": "https://pipotron.moul.io/",
     "icon": "https://favicons.githubusercontent.com/pipotron.moul.io",
     "slug": "pipotron-moul-io",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.59%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "97.11%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 140,
-    "timeDay": 381,
-    "timeWeek": 127,
-    "timeMonth": 102,
+    "timeDay": 235,
+    "timeWeek": 122,
+    "timeMonth": 101,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2022-04-14": 20,
+      "2022-04-14": 42,
       "2021-11-16": 16
     }
   },
