@@ -4,10 +4,10 @@
     "url": "https://www.berty.tech/",
     "icon": "https://favicons.githubusercontent.com/www.berty.tech",
     "slug": "berty-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 281,
@@ -16,6 +16,7 @@
     "timeMonth": 213,
     "timeYear": 281,
     "dailyMinutesDown": {
+      "2022-04-14": 1,
       "2022-03-13": 19,
       "2022-03-12": 3
     }
@@ -67,14 +68,14 @@
     "icon": "https://favicons.githubusercontent.com/pathwar.land",
     "slug": "pathwar-land",
     "status": "up",
-    "uptime": "99.02%",
+    "uptime": "99.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.89%",
-    "uptimeYear": "99.02%",
+    "uptimeYear": "99.03%",
     "time": 593,
     "timeDay": 214,
-    "timeWeek": 429,
+    "timeWeek": 440,
     "timeMonth": 524,
     "timeYear": 593,
     "dailyMinutesDown": {
@@ -131,10 +132,10 @@
     "url": "https://ghboard.netlify.app",
     "icon": "https://favicons.githubusercontent.com/ghboard.netlify.app",
     "slug": "ghboard-netlify-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 276,
@@ -142,25 +143,29 @@
     "timeWeek": 107,
     "timeMonth": 91,
     "timeYear": 276,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-14": 1
+    }
   },
   {
     "name": "makerinbox.netlify.app",
     "url": "https://makerinbox.netlify.app",
     "icon": "https://favicons.githubusercontent.com/makerinbox.netlify.app",
     "slug": "makerinbox-netlify-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 159,
     "timeDay": 193,
-    "timeWeek": 78,
+    "timeWeek": 81,
     "timeMonth": 344,
     "timeYear": 159,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-14": 1
+    }
   },
   {
     "name": "sh.moul.io",
@@ -207,11 +212,11 @@
     "icon": "https://favicons.githubusercontent.com/bot.moul.io",
     "slug": "bot-moul-io",
     "status": "up",
-    "uptime": "71.13%",
+    "uptime": "71.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "71.13%",
+    "uptimeYear": "71.18%",
     "time": 419,
     "timeDay": 264,
     "timeWeek": 186,
@@ -391,10 +396,10 @@
     "url": "https://graphman.moul.io/pertify/",
     "icon": "https://favicons.githubusercontent.com/graphman.moul.io",
     "slug": "graphman-moul-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 182,
@@ -403,6 +408,7 @@
     "timeMonth": 191,
     "timeYear": 182,
     "dailyMinutesDown": {
+      "2022-04-14": 1,
       "2021-11-16": 31
     }
   },
