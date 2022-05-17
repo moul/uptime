@@ -97,10 +97,10 @@
     "url": "https://moul.io",
     "icon": "https://favicons.githubusercontent.com/moul.io",
     "slug": "moul-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.89%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 137,
@@ -109,7 +109,7 @@
     "timeMonth": 293,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2022-05-17": 16
+      "2022-05-17": 17
     }
   },
   {
