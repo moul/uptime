@@ -550,10 +550,10 @@
     "url": "fwrz2.m.42.am",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "fwrz2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 112,
@@ -561,17 +561,19 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 112,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-18": 2
+    }
   },
   {
     "name": "obelix",
     "url": "obelix.m.42.am",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "obelix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 100,
@@ -579,6 +581,8 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 100,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-18": 1
+    }
   }
 ]
