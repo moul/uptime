@@ -1,7 +1,7 @@
 url: https://bot.moul.io/ping
-status: down
-code: 500
-responseTime: 140
-lastUpdated: 2022-10-24T15:11:37.202Z
+status: up
+code: 200
+responseTime: 136
+lastUpdated: 2022-10-24T15:26:05.614Z
 startTime: Fri Jul 02 2021 11:49:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
