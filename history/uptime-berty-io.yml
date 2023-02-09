@@ -1,7 +1,7 @@
 url: https://uptime.berty.io/
-status: up
-code: 200
-responseTime: 39
-lastUpdated: 2023-02-08T23:03:55.644Z
+status: down
+code: 502
+responseTime: 17571
+lastUpdated: 2023-02-09T03:36:38.108Z
 startTime: Fri Jul 02 2021 11:49:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
