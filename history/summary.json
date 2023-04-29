@@ -136,7 +136,7 @@
     "timeMonth": 0,
     "timeYear": 399,
     "dailyMinutesDown": {
-      "2023-04-29": 135,
+      "2023-04-29": 150,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
       "2023-04-26": 1440,
@@ -371,7 +371,7 @@
     "timeMonth": 0,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2023-04-29": 135,
+      "2023-04-29": 150,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
       "2023-04-26": 1440,
@@ -470,19 +470,19 @@
     "url": "https://protoc-gen-gotemplate.m.42.am/",
     "icon": "https://icons.duckduckgo.com/ip3/protoc-gen-gotemplate.m.42.am.ico",
     "slug": "protoc-gen-gotemplate-m-42-am",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 476,
-    "timeDay": 352,
-    "timeWeek": 274,
-    "timeMonth": 346,
-    "timeYear": 474,
+    "timeDay": 440,
+    "timeWeek": 312,
+    "timeMonth": 354,
+    "timeYear": 475,
     "dailyMinutesDown": {
-      "2023-04-29": 3
+      "2023-04-29": 15
     }
   },
   {
@@ -666,7 +666,7 @@
     "timeMonth": 274,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2023-04-29": 135,
+      "2023-04-29": 151,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
       "2023-04-26": 1440,
@@ -807,7 +807,7 @@
     "timeMonth": 0,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2023-04-29": 135,
+      "2023-04-29": 151,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
       "2023-04-26": 1440,
@@ -939,7 +939,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fwrz2",
     "status": "down",
-    "uptime": "48.01%",
+    "uptime": "48.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -950,7 +950,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-29": 135,
+      "2023-04-29": 151,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
       "2023-04-26": 1440,
@@ -1305,7 +1305,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "obelix",
     "status": "down",
-    "uptime": "48.01%",
+    "uptime": "48.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1316,7 +1316,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-29": 135,
+      "2023-04-29": 151,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
       "2023-04-26": 1440,
