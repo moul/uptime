@@ -27,19 +27,19 @@
     "url": "https://manfred.life/",
     "icon": "https://icons.duckduckgo.com/ip3/manfred.life.ico",
     "slug": "manfred-life",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 367,
-    "timeDay": 503,
-    "timeWeek": 354,
-    "timeMonth": 353,
-    "timeYear": 369,
+    "time": 366,
+    "timeDay": 303,
+    "timeWeek": 323,
+    "timeMonth": 345,
+    "timeYear": 368,
     "dailyMinutesDown": {
-      "2023-08-20": 3
+      "2023-08-20": 9
     }
   },
   {
@@ -146,7 +146,7 @@
     "timeMonth": 0,
     "timeYear": 403,
     "dailyMinutesDown": {
-      "2023-08-20": 618,
+      "2023-08-20": 628,
       "2023-08-19": 1440,
       "2023-08-18": 1440,
       "2023-08-17": 1440,
@@ -488,7 +488,7 @@
     "timeMonth": 0,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2023-08-20": 619,
+      "2023-08-20": 628,
       "2023-08-19": 1440,
       "2023-08-18": 1440,
       "2023-08-17": 1440,
@@ -905,7 +905,7 @@
     "timeMonth": 161,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2023-08-20": 619,
+      "2023-08-20": 628,
       "2023-08-19": 1440,
       "2023-08-18": 1440,
       "2023-08-17": 1440,
@@ -1159,7 +1159,7 @@
     "timeMonth": 0,
     "timeYear": 181,
     "dailyMinutesDown": {
-      "2023-08-20": 619,
+      "2023-08-20": 628,
       "2023-08-19": 1440,
       "2023-08-18": 1440,
       "2023-08-17": 1440,
@@ -1415,7 +1415,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-20": 619,
+      "2023-08-20": 628,
       "2023-08-19": 1440,
       "2023-08-18": 1440,
       "2023-08-17": 1440,
@@ -1799,7 +1799,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-20": 619,
+      "2023-08-20": 629,
       "2023-08-19": 1440,
       "2023-08-18": 1440,
       "2023-08-17": 1440,
