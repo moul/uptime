@@ -147,7 +147,7 @@
     "timeMonth": 0,
     "timeYear": 399,
     "dailyMinutesDown": {
-      "2023-09-07": 1199,
+      "2023-09-07": 1208,
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
@@ -507,7 +507,7 @@
     "timeMonth": 0,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2023-09-07": 1199,
+      "2023-09-07": 1208,
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
@@ -762,19 +762,19 @@
     "url": "https://pmgconsulting.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pmgconsulting.org.ico",
     "slug": "pmgconsulting-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 422,
-    "timeDay": 861,
-    "timeWeek": 514,
-    "timeMonth": 469,
+    "time": 423,
+    "timeDay": 704,
+    "timeWeek": 501,
+    "timeMonth": 466,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2023-09-07": 3,
+      "2023-09-07": 9,
       "2023-02-17": 68
     }
   },
@@ -932,7 +932,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/uptime.ultre.me.ico",
     "slug": "uptime-ultre-me",
     "status": "up",
-    "uptime": "70.92%",
+    "uptime": "70.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -943,7 +943,7 @@
     "timeMonth": 185,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2023-09-07": 1200,
+      "2023-09-07": 1208,
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
@@ -1185,9 +1185,9 @@
     "slug": "grpcb-in",
     "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "61.72%",
-    "uptimeWeek": "94.53%",
-    "uptimeMonth": "98.74%",
+    "uptimeDay": "61.15%",
+    "uptimeWeek": "94.45%",
+    "uptimeMonth": "98.72%",
     "uptimeYear": "99.89%",
     "time": 640,
     "timeDay": 385,
@@ -1195,7 +1195,7 @@
     "timeMonth": 709,
     "timeYear": 653,
     "dailyMinutesDown": {
-      "2023-09-07": 551,
+      "2023-09-07": 560,
       "2023-01-25": 17
     }
   },
@@ -1216,7 +1216,7 @@
     "timeMonth": 0,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2023-09-07": 1200,
+      "2023-09-07": 1208,
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
@@ -1490,7 +1490,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-07": 1200,
+      "2023-09-07": 1208,
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
@@ -1874,7 +1874,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-07": 1200,
+      "2023-09-07": 1208,
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
