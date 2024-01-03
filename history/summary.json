@@ -4,18 +4,20 @@
     "url": "https://www.berty.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/www.berty.tech.ico",
     "slug": "berty-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 434,
-    "timeDay": 466,
-    "timeWeek": 237,
-    "timeMonth": 218,
-    "timeYear": 330,
-    "dailyMinutesDown": {}
+    "time": 440,
+    "timeDay": 1758,
+    "timeWeek": 589,
+    "timeMonth": 307,
+    "timeYear": 337,
+    "dailyMinutesDown": {
+      "2024-01-03": 2
+    }
   },
   {
     "name": "manfred.life",
@@ -58,7 +60,7 @@
     "timeMonth": 0,
     "timeYear": 635,
     "dailyMinutesDown": {
-      "2024-01-03": 1009,
+      "2024-01-03": 1025,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
@@ -197,18 +199,16 @@
     "slug": "moul-io",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 225,
     "timeDay": 4600,
     "timeWeek": 1273,
     "timeMonth": 430,
     "timeYear": 207,
-    "dailyMinutesDown": {
-      "2024-01-03": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "makerinbox.com",
@@ -216,7 +216,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/makerinbox.com.ico",
     "slug": "makerinbox-com",
     "status": "down",
-    "uptime": "56.14%",
+    "uptime": "56.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -227,7 +227,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-03": 1010,
+      "2024-01-03": 1025,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
@@ -665,7 +665,7 @@
     "timeMonth": 0,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2024-01-03": 1010,
+      "2024-01-03": 1025,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
@@ -1088,7 +1088,7 @@
     "timeMonth": 361,
     "timeYear": 370,
     "dailyMinutesDown": {
-      "2024-01-03": 1010,
+      "2024-01-03": 1025,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
@@ -1255,7 +1255,7 @@
     "timeMonth": 117,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2024-01-03": 1010,
+      "2024-01-03": 1025,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
@@ -1613,7 +1613,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/grpcb.in.ico",
     "slug": "grpcb-in",
     "status": "down",
-    "uptime": "87.07%",
+    "uptime": "87.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1624,7 +1624,7 @@
     "timeMonth": 0,
     "timeYear": 651,
     "dailyMinutesDown": {
-      "2024-01-03": 1010,
+      "2024-01-03": 1025,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
@@ -2064,7 +2064,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-03": 1010,
+      "2024-01-03": 1025,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
@@ -2448,7 +2448,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-03": 1010,
+      "2024-01-03": 1025,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
