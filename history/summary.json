@@ -58,7 +58,7 @@
     "timeMonth": 0,
     "timeYear": 632,
     "dailyMinutesDown": {
-      "2024-03-16": 294,
+      "2024-03-16": 301,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -283,7 +283,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/makerinbox.com.ico",
     "slug": "makerinbox-com",
     "status": "down",
-    "uptime": "52.02%",
+    "uptime": "52.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -294,7 +294,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-16": 294,
+      "2024-03-16": 301,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -702,19 +702,19 @@
     "url": "https://sh.moul.io",
     "icon": "https://icons.duckduckgo.com/ip3/sh.moul.io.ico",
     "slug": "sh-moul-io",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 247,
-    "timeDay": 260,
-    "timeWeek": 267,
-    "timeMonth": 199,
-    "timeYear": 231,
+    "time": 246,
+    "timeDay": 221,
+    "timeWeek": 248,
+    "timeMonth": 195,
+    "timeYear": 230,
     "dailyMinutesDown": {
-      "2024-03-16": 2
+      "2024-03-16": 8
     }
   },
   {
@@ -734,7 +734,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-16": 294,
+      "2024-03-16": 301,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -1199,7 +1199,7 @@
     "timeMonth": 262,
     "timeYear": 376,
     "dailyMinutesDown": {
-      "2024-03-16": 294,
+      "2024-03-16": 302,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -1352,19 +1352,19 @@
     "url": "https://graphman.moul.io/pertify/",
     "icon": "https://icons.duckduckgo.com/ip3/graphman.moul.io.ico",
     "slug": "graphman-moul-io",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 234,
-    "timeDay": 170,
-    "timeWeek": 231,
-    "timeMonth": 193,
+    "timeDay": 151,
+    "timeWeek": 217,
+    "timeMonth": 189,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2024-03-16": 2
+      "2024-03-16": 8
     }
   },
   {
@@ -1438,7 +1438,7 @@
     "timeMonth": 121,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2024-03-16": 294,
+      "2024-03-16": 302,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -1822,7 +1822,7 @@
     "timeMonth": 0,
     "timeYear": 646,
     "dailyMinutesDown": {
-      "2024-03-16": 295,
+      "2024-03-16": 302,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -2263,7 +2263,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-16": 295,
+      "2024-03-16": 302,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -2647,7 +2647,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-16": 295,
+      "2024-03-16": 302,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
