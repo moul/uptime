@@ -58,7 +58,7 @@
     "timeMonth": 0,
     "timeYear": 632,
     "dailyMinutesDown": {
-      "2024-03-16": 239,
+      "2024-03-16": 261,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -294,7 +294,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-16": 239,
+      "2024-03-16": 261,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -702,11 +702,11 @@
     "url": "https://sh.moul.io",
     "icon": "https://icons.duckduckgo.com/ip3/sh.moul.io.ico",
     "slug": "sh-moul-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 246,
     "timeDay": 216,
@@ -714,7 +714,7 @@
     "timeMonth": 193,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2024-03-16": 7
+      "2024-03-16": 2
     }
   },
   {
@@ -734,7 +734,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-16": 239,
+      "2024-03-16": 261,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -1171,18 +1171,16 @@
     "slug": "comments-manfred-life",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 242,
     "timeDay": 57,
     "timeWeek": 108,
     "timeMonth": 194,
     "timeYear": 204,
-    "dailyMinutesDown": {
-      "2024-03-16": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "depviz-demo.moul.io",
@@ -1201,7 +1199,7 @@
     "timeMonth": 262,
     "timeYear": 376,
     "dailyMinutesDown": {
-      "2024-03-16": 239,
+      "2024-03-16": 261,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -1354,19 +1352,19 @@
     "url": "https://graphman.moul.io/pertify/",
     "icon": "https://icons.duckduckgo.com/ip3/graphman.moul.io.ico",
     "slug": "graphman-moul-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 239,
+    "time": 240,
     "timeDay": 202,
     "timeWeek": 249,
     "timeMonth": 196,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2024-03-16": 7
+      "2024-03-16": 2
     }
   },
   {
@@ -1440,7 +1438,7 @@
     "timeMonth": 121,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2024-03-16": 239,
+      "2024-03-16": 261,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -1817,14 +1815,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "47.75%",
+    "uptimeYear": "47.74%",
     "time": 660,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 646,
     "dailyMinutesDown": {
-      "2024-03-16": 239,
+      "2024-03-16": 261,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -2265,7 +2263,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-16": 239,
+      "2024-03-16": 261,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -2649,7 +2647,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-16": 239,
+      "2024-03-16": 261,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
