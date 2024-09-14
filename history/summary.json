@@ -50,14 +50,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "6.91%",
+    "uptimeYear": "6.90%",
     "time": 618,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 624,
     "dailyMinutesDown": {
-      "2024-09-14": 1178,
+      "2024-09-14": 1185,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
       "2024-09-11": 1440,
@@ -458,7 +458,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-14": 1178,
+      "2024-09-14": 1185,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
       "2024-09-11": 1440,
@@ -896,7 +896,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-14": 1178,
+      "2024-09-14": 1185,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
       "2024-09-11": 1440,
@@ -1355,7 +1355,7 @@
     "timeMonth": 302,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2024-09-14": 1178,
+      "2024-09-14": 1185,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
       "2024-09-11": 1440,
@@ -1693,19 +1693,19 @@
     "url": "https://pipotron.moul.io/",
     "icon": "https://icons.duckduckgo.com/ip3/pipotron.moul.io.ico",
     "slug": "pipotron-moul-io",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 166,
-    "timeDay": 1696,
-    "timeWeek": 476,
-    "timeMonth": 262,
+    "timeDay": 1235,
+    "timeWeek": 461,
+    "timeMonth": 263,
     "timeYear": 163,
     "dailyMinutesDown": {
-      "2024-09-14": 2
+      "2024-09-14": 7
     }
   },
   {
@@ -1761,7 +1761,7 @@
     "timeMonth": 203,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2024-09-14": 1178,
+      "2024-09-14": 1185,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
       "2024-09-11": 1440,
@@ -2145,7 +2145,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-14": 1178,
+      "2024-09-14": 1185,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
       "2024-09-11": 1440,
@@ -2578,7 +2578,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-14": 1178,
+      "2024-09-14": 1185,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
       "2024-09-11": 1440,
@@ -2962,7 +2962,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-14": 1178,
+      "2024-09-14": 1185,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
       "2024-09-11": 1440,
