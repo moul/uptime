@@ -1,7 +1,7 @@
 url: https://sh.moul.io
-status: up
-code: 200
-responseTime: 405
-lastUpdated: 2024-09-14T23:03:34.438Z
+status: down
+code: 500
+responseTime: 204
+lastUpdated: 2024-09-15T10:36:54.167Z
 startTime: 2021-07-02T09:50:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
