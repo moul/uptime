@@ -50,14 +50,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "6.06%",
+    "uptimeYear": "6.05%",
     "time": 617,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 630,
     "dailyMinutesDown": {
-      "2024-09-17": 1327,
+      "2024-09-17": 1338,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -461,7 +461,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-17": 1327,
+      "2024-09-17": 1338,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -899,7 +899,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-17": 1327,
+      "2024-09-17": 1338,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -1289,19 +1289,19 @@
     "url": "https://protoc-gen-gotemplate.m.42.am/",
     "icon": "https://icons.duckduckgo.com/ip3/protoc-gen-gotemplate.m.42.am.ico",
     "slug": "protoc-gen-gotemplate-m-42-am",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 360,
-    "timeDay": 291,
-    "timeWeek": 314,
+    "timeDay": 315,
+    "timeWeek": 319,
     "timeMonth": 368,
     "timeYear": 360,
     "dailyMinutesDown": {
-      "2024-09-17": 2
+      "2024-09-17": 11
     }
   },
   {
@@ -1360,7 +1360,7 @@
     "timeMonth": 294,
     "timeYear": 351,
     "dailyMinutesDown": {
-      "2024-09-17": 1327,
+      "2024-09-17": 1338,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -1767,7 +1767,7 @@
     "timeMonth": 207,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2024-09-17": 1327,
+      "2024-09-17": 1339,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -2151,7 +2151,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-17": 1327,
+      "2024-09-17": 1339,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -2581,7 +2581,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-17": 1327,
+      "2024-09-17": 1339,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -2965,7 +2965,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-17": 1327,
+      "2024-09-17": 1339,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
