@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 705,
+      "2025-05-07": 713,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
@@ -424,19 +424,19 @@
     "url": "https://pathwar.land",
     "icon": "https://icons.duckduckgo.com/ip3/pathwar.land.ico",
     "slug": "pathwar-land",
-    "status": "down",
+    "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 618,
-    "timeDay": 558,
-    "timeWeek": 658,
-    "timeMonth": 741,
+    "timeDay": 483,
+    "timeWeek": 626,
+    "timeMonth": 731,
     "timeYear": 625,
     "dailyMinutesDown": {
-      "2025-05-07": 10
+      "2025-05-07": 15
     }
   },
   {
@@ -474,7 +474,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 705,
+      "2025-05-07": 713,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
@@ -882,19 +882,19 @@
     "url": "https://sh.moul.io",
     "icon": "https://icons.duckduckgo.com/ip3/sh.moul.io.ico",
     "slug": "sh-moul-io",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 255,
-    "timeDay": 222,
-    "timeWeek": 238,
-    "timeMonth": 295,
+    "timeDay": 210,
+    "timeWeek": 233,
+    "timeMonth": 292,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2025-05-07": 10
+      "2025-05-07": 15
     }
   },
   {
@@ -906,7 +906,7 @@
     "uptime": "42.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.82%",
+    "uptimeMonth": "4.80%",
     "uptimeYear": "2.08%",
     "time": 98,
     "timeDay": 0,
@@ -914,7 +914,7 @@
     "timeMonth": 102,
     "timeYear": 98,
     "dailyMinutesDown": {
-      "2025-05-07": 705,
+      "2025-05-07": 713,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
@@ -1335,19 +1335,19 @@
     "url": "https://comments.manfred.life/ghi/",
     "icon": "https://icons.duckduckgo.com/ip3/comments.manfred.life.ico",
     "slug": "comments-manfred-life",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 242,
-    "timeDay": 276,
-    "timeWeek": 272,
-    "timeMonth": 276,
+    "time": 243,
+    "timeDay": 315,
+    "timeWeek": 282,
+    "timeMonth": 279,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2025-05-07": 9
+      "2025-05-07": 15
     }
   },
   {
@@ -1367,7 +1367,7 @@
     "timeMonth": 335,
     "timeYear": 313,
     "dailyMinutesDown": {
-      "2025-05-07": 705,
+      "2025-05-07": 713,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
@@ -1739,19 +1739,19 @@
     "url": "https://graphman.moul.io/pertify/",
     "icon": "https://icons.duckduckgo.com/ip3/graphman.moul.io.ico",
     "slug": "graphman-moul-io",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 225,
-    "timeDay": 123,
-    "timeWeek": 243,
-    "timeMonth": 291,
+    "time": 224,
+    "timeDay": 145,
+    "timeWeek": 233,
+    "timeMonth": 287,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2025-05-07": 9
+      "2025-05-07": 15
     }
   },
   {
@@ -1761,18 +1761,16 @@
     "slug": "pipotron-moul-io",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 196,
     "timeDay": 205,
     "timeWeek": 204,
     "timeMonth": 242,
     "timeYear": 213,
-    "dailyMinutesDown": {
-      "2025-05-07": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "uptime.moul.io",
@@ -1827,7 +1825,7 @@
     "timeMonth": 202,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2025-05-07": 706,
+      "2025-05-07": 713,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
@@ -2462,7 +2460,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 706,
+      "2025-05-07": 713,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
@@ -2846,7 +2844,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 706,
+      "2025-05-07": 713,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
