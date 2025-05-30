@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-30": 709,
+      "2025-05-30": 717,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
@@ -472,7 +472,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-30": 709,
+      "2025-05-30": 717,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
@@ -910,7 +910,7 @@
     "timeMonth": 0,
     "timeYear": 98,
     "dailyMinutesDown": {
-      "2025-05-30": 709,
+      "2025-05-30": 717,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
@@ -1359,7 +1359,7 @@
     "timeMonth": 299,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2025-05-30": 709,
+      "2025-05-30": 717,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
@@ -1731,19 +1731,19 @@
     "url": "https://graphman.moul.io/pertify/",
     "icon": "https://icons.duckduckgo.com/ip3/graphman.moul.io.ico",
     "slug": "graphman-moul-io",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 230,
-    "timeDay": 98,
-    "timeWeek": 286,
-    "timeMonth": 284,
+    "timeDay": 146,
+    "timeWeek": 274,
+    "timeMonth": 281,
     "timeYear": 242,
     "dailyMinutesDown": {
-      "2025-05-30": 2
+      "2025-05-30": 8
     }
   },
   {
@@ -1817,7 +1817,7 @@
     "timeMonth": 197,
     "timeYear": 206,
     "dailyMinutesDown": {
-      "2025-05-30": 709,
+      "2025-05-30": 717,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
@@ -2429,7 +2429,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-30": 710,
+      "2025-05-30": 717,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
@@ -2813,7 +2813,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-30": 710,
+      "2025-05-30": 717,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
