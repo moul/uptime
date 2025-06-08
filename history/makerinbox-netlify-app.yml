@@ -1,7 +1,7 @@
 url: https://makerinbox.netlify.app
-status: up
-code: 200
-responseTime: 128
-lastUpdated: 2025-06-07T23:03:53.388Z
+status: down
+code: 500
+responseTime: 50
+lastUpdated: 2025-06-08T20:48:02.615Z
 startTime: 2021-07-02T11:54:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
